@@ -12,3 +12,5 @@ dependencies:
 
 dev_dependencies:
   lints: ^1.0.1
+  build_runner: ^2.1.4
+  build_web_compilers: ^3.0.0
