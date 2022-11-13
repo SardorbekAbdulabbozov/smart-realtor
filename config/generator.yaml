@@ -1,0 +1,3 @@
+type: server
+
+client_package_path: ../smart_realtor_client
